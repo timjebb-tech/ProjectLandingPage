@@ -1,0 +1,10 @@
+.logo {
+    height: 25px;
+
+}
+
+.top {
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
