@@ -3,8 +3,18 @@
 
 }
 
-.top {
+.top, .next-top{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.links a{
+    text-decoration: none;
+    
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
 }
